@@ -59,9 +59,5 @@ Missing data was handled by:
 - K-means achieves a higher silhouette score (stronger separation)  
 - GMM captures more flexible cluster shapes and overlapping structure  
 
----
-##  Report
 
-You can view the full report here:  
-[ View Report](./report 1.pdf)
 
